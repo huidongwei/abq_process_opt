@@ -16,6 +16,8 @@ This idea of the repo is shown by the following figures:
     <img src="/res/figures/Figure 3.png" width="50%" align="center">
 </p>
 
+---
+
 ### **Results**
 
 #### Manufacture process simulation by [FEA]:
@@ -24,7 +26,7 @@ This idea of the repo is shown by the following figures:
     <img src="/res/figures/Figure 4.png" width="50%" align="center">
 </p>
 
-#### Optimisation process in [Python[] script:
+#### Optimisation process in [Python] script:
 <p align="center">
     <img src="/res/figures/Figure 6(b).png" width="30%" align="center">
 </p>
@@ -33,6 +35,8 @@ This idea of the repo is shown by the following figures:
 <p align="center">
     <img src="/res/figures/Figure 8(b).png" width="30%" align="center">
 </p>
+
+---
 
 ### **Authorship & Citation**
 If you use the codes, please cite the following [paper]
