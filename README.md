@@ -17,11 +17,18 @@ This idea of the repo is shown by the following figures:
 </p>
 
 ### **Results**
-####Manufacture process simulation by FEA:
+Manufacture process simulation by FEA:
 <p align="center">
     <img src="/res/figures/Figure 4.png" width="70%" align="center">
 </p>
-
+Optimisation process in Python script:
+<p align="center">
+    <img src="/res/figures/Figure 6(b).png" width="70%" align="center">
+</p>
+Temperature profiles before and after optimisaiton:
+<p align="center">
+    <img src="/res/figures/Figure 8(b).png" width="70%" align="center">
+</p>
 ### **Authorship & Citation**
 If you use the codes, please cite the following [paper]
 ```
