@@ -16,7 +16,6 @@ This idea of the repo is shown by the following figures:
     <img src="/res/figures/Figure 3.png" width="70%" align="center">
 </p>
 
-![Image](/res/figures/Figure 3.png)
 
 ### **Authorship & Citation**
 If you use the codes, please cite the following [paper]
