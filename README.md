@@ -20,7 +20,7 @@ This idea of the repo is shown by the following figures:
 
 ### **Results**
 
-#### Manufacture process simulation by **_FEA_**:
+#### Manufacture process simulation by **_FEA_** (Abaqus):
 
 <p align="center">
     <img src="/res/figures/Figure 4.png" width="50%" align="center">
